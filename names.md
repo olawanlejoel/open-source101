@@ -7,3 +7,7 @@ Note ⚠️: Use this format to add your name
 - Asaolu Elijah
 - Mark Zuckerberg
 - Elon Musk
+- Joel Olawanle
+- Kehinde Owoputi
+- Adebayo Silas
+- Gbadebo Samuel 
